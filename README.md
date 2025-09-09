@@ -14,7 +14,7 @@
 
 Проект платы: 
 
-<img width="974" height="898" alt="image" src="https://github.com/user-attachments/assets/c6188931-8b91-46b4-a793-56f51280dcf5" />
+<img width="958" height="857" alt="image" src="https://github.com/user-attachments/assets/cd44ddcc-0bf9-4474-8d49-15945121a6f3" />
 
 <img width="931" height="790" alt="image" src="https://github.com/user-attachments/assets/63ca2cf7-0bdd-404b-a48e-2f7f985961f3" />
 
