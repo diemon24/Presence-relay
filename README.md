@@ -61,7 +61,7 @@ Gerber и BOM файл:
 Реле мощности Your Cee HF32FA-G https://sl.aliexpress.ru/p?key=6uZYVOv
 Однорядный гнездовой штифт 1,27 мм https://sl.aliexpress.ru/p?key=zdZYVUA.
 
-Прошивка: [presence-sensor-street-1.yaml]([https://github.com/user-attachments/files/22231539/presence-sensor-street-1.yaml](https://github.com/diemon24/Presence-relay/blob/main/presence-sensor-street-1.yaml))
+Прошивка: [presence-sensor-street-1.yaml](https://github.com/diemon24/Presence-relay/blob/main/presence-sensor-street-1.yaml)
 
 В итоге мы получили в HomeAssistant: 
 <img width="879" height="940" alt="image" src="https://github.com/user-attachments/assets/a3c59e5a-b07a-4770-999d-e9a07e48d1a0" />
