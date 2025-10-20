@@ -48,7 +48,7 @@ Gerber и BOM файл:
 [BOM_Board1_PCB1_2025-09-09.xlsx](https://github.com/user-attachments/files/22231246/BOM_Board1_PCB1_2025-09-09.xlsx)
 
 
-Прошивка ESP32: 
+Прошивка ESP32: [presence-relay-v1-0.factory.bin](https://github.com/diemon24/Presence-relay/blob/main/presence-relay-v1-0.factory.bin)
 
 В итоге мы получили в HomeAssistant: 
 <img width="879" height="940" alt="image" src="https://github.com/user-attachments/assets/a3c59e5a-b07a-4770-999d-e9a07e48d1a0" />
