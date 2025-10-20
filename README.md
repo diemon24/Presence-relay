@@ -5,7 +5,6 @@
 
 ![2025-10-21 00 04 43](https://github.com/user-attachments/assets/75b15cd3-560e-4f1e-807f-2850bd0a9995)
 
-
 При проектировании данного реле я поставил перед собой задачу иметь возможность использовать его не только в качестве умного самостоятельного устройства (в частности управляемого), но и как самостоятельное устройство без возможности интеграции в умный дом. Поэтому я спроектировал плату соответствующим образом. 
 
 <img width="1065" height="636" alt="image" src="https://github.com/user-attachments/assets/ca943847-7384-467d-9628-ff085f6bf26e" />
@@ -27,25 +26,11 @@
 <img width="470" height="243" alt="image" src="https://github.com/user-attachments/assets/b7b12d2e-7781-45eb-a1b7-2ea09469d75f" />
 
 Для изменения режимов работы датчика (умный/не умный :) ) на плате предусмотрена перемычка "ESP/OI2". ОТ2 - это контакт состояния присутствия на датчиках присутствия, т.е. управляющий контакт с датчика напрямую подключается к цепи управления реле. Реле, кстати, использовано на нагрузку 8А, что вполне достаточно для управления группой освещения. 
-
-В конечном счете у меня получилось вот такое устройство: 
-
-![IMG_20250815_162640](https://github.com/user-attachments/assets/039347ea-71d7-480d-af6a-d708b3060c7f)
-
-![IMG_20250815_162457](https://github.com/user-attachments/assets/dc328252-fe3b-4e52-a684-9a7f6c7c2a61)
-
-![IMG_20250815_162516](https://github.com/user-attachments/assets/625ff2f6-3654-4613-8e10-9cf06d118621)
-
-
-
 Статусный светодиод мигает сразу после обнаружения движения с последующим включением освещения.
-
-
 
 Gerber и BOM файл:
 [Gerber_PCB1_2025-09-09.zip](https://github.com/user-attachments/files/22231243/Gerber_PCB1_2025-09-09.zip)
 [BOM_Board1_PCB1_2025-09-09.xlsx](https://github.com/user-attachments/files/22231246/BOM_Board1_PCB1_2025-09-09.xlsx)
-
 
 Прошивка ESP32: [presence-relay-v1-0.factory.bin](https://github.com/diemon24/Presence-relay/blob/main/presence-relay-v1-0.factory.bin)
 
