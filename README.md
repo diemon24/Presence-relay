@@ -36,12 +36,11 @@
 
 ![IMG_20250815_162516](https://github.com/user-attachments/assets/625ff2f6-3654-4613-8e10-9cf06d118621)
 
-С демонтированным окошком:
-![IMG_20250816_225300](https://github.com/user-attachments/assets/458e3591-c7f2-4a12-a03a-1b56ae5fd67a)
+
 
 Статусный светодиод мигает сразу после обнаружения движения с последующим включением освещения.
 
-![IMG_20250827_105243](https://github.com/user-attachments/assets/064089f7-7948-4399-818a-888faa1786d5)
+
 
 Gerber и BOM файл:
 [Gerber_PCB1_2025-09-09.zip](https://github.com/user-attachments/files/22231243/Gerber_PCB1_2025-09-09.zip)
